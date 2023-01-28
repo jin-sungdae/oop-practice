@@ -1,7 +1,9 @@
 package org.example;
 
 
-public class CorrectFixedPasswordGenerator implements PasswordGenerator{
+import org.example.password.PasswordGenerator;
+
+public class CorrectFixedPasswordGenerator implements PasswordGenerator {
     @Override
     public String generatePassword() {
         return "abcdefgh";
