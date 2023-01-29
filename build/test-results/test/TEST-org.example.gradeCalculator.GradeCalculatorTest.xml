@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.gradeCalculator.GradeCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-28T14:39:57" hostname="sungdaeui-MacBookPro.local" time="0.06">
-  <properties/>
-  <testcase name="평균 학점을 계산한다." classname="org.example.gradeCalculator.GradeCalculatorTest" time="0.06"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
